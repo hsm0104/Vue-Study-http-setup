@@ -62,11 +62,6 @@ export default {
       }
       this.invalidInput = false;
 
-      // this.$emit('survey-submit', {
-      //   userName: this.enteredName,
-      //   rating: this.chosenRating,
-      // });
-
           // reset error
         this.error=null
       // fetch firebase api => don't forget (random name).json at the end

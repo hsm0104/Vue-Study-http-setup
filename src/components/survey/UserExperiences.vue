@@ -31,8 +31,7 @@
 import SurveyResult from './SurveyResult.vue';
 
 export default {
-  // using api getting data 
-  // props: ['results'],
+  // using api getting data
   components: {
     SurveyResult,
   },
